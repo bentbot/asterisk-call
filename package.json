@@ -1,0 +1,30 @@
+{
+  "name": "asterisk-call",
+  "version": "1.0.0",
+  "description": "Easily make asterisk calls from Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentbot/asterisk-call.git"
+  },
+  "keywords": [
+    "asterisk",
+    "phone",
+    "call",
+    "sip",
+    "pbx",
+    "freepbx",
+    "php",
+    "sh",
+    "callfile"
+  ],
+  "author": "bentbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bentbot/asterisk-call/issues"
+  },
+  "homepage": "https://github.com/bentbot/asterisk-call#readme"
+}
